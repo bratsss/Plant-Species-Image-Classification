@@ -9,24 +9,27 @@ Brief description of the project
 The primary function of the image classification model is to serve as a fast, accurate, and automated means of plant species identification.The image classification model can be used to support plant education, agricultural monitoring, biodiversity research, and environmental awareness by making plant identification more accessible and efficient.
 
 B. Plants Species Section
-![Plants Scpecies](https://docs.google.com/document/d/1_qACq63tUuY1s-dakO8PCrllrF6mOwEyJumj6oTIrAs/edit?tab=t.0)
+.[Plants Scpecies:](https://docs.google.com/document/d/1_qACq63tUuY1s-dakO8PCrllrF6mOwEyJumj6oTIrAs/edit?tab=t.0)
 
 C. Model Training Details
-![Heres the link](https://docs.google.com/document/d/1_qACq63tUuY1s-dakO8PCrllrF6mOwEyJumj6oTIrAs/edit?tab=t.0)
+[Heres the link:](https://github.com/bratsss/Plant-Species-Image-Classification/tree/40b0e2c5e18fb19bf38364f1ce0eca76a772eccc/Training%20Settings%20screenshots)
 
 D. Model Evaluation
-![Heres the link](https://docs.google.com/document/d/1_qACq63tUuY1s-dakO8PCrllrF6mOwEyJumj6oTIrAs/edit?tab=t.0)
+[Heres the link:](https://github.com/bratsss/Plant-Species-Image-Classification/tree/40b0e2c5e18fb19bf38364f1ce0eca76a772eccc/Under-the-hood%20Evaluation%20screenshots)
 
 E. Model Testing
-![Heres the link](https://docs.google.com/document/d/1_qACq63tUuY1s-dakO8PCrllrF6mOwEyJumj6oTIrAs/edit?tab=t.0)
+[Heres the link:](https://github.com/bratsss/Plant-Species-Image-Classification/tree/40b0e2c5e18fb19bf38364f1ce0eca76a772eccc/Preview%20Testing%20screenshots)
 
+DATASET SCREENSHOT
+[Heres the link:](https://github.com/bratsss/Plant-Species-Image-Classification/tree/40b0e2c5e18fb19bf38364f1ce0eca76a772eccc/Dataset%20Screenshots)
 
-
+EXPORTED TEACHABLE MACHINE MODEL FILES
+[Heres the link:](https://github.com/bratsss/Plant-Species-Image-Classification/tree/40b0e2c5e18fb19bf38364f1ce0eca76a772eccc/Exported%20Teachable%20Machine)
 
 
 
 Answer the following questions based on your experience:
-1. How did the number of images per class affect your model’s accuracy?
+1.How did the number of images per class affect your model’s accuracy?
    
 Answer: Classes with more images generally performed better because the model had more examples to learn the unique features of each plant. On the other hand, species with fewer images sometimes caused the model to misclassify, as it couldn’t fully capture their variations in shape, color, or lighting conditions.
      
@@ -34,15 +37,15 @@ Answer: Classes with more images generally performed better because the model ha
 
 Answer: Some of the most commonly misclassified species were Spring Onion and Onion, because their leaves and overall appearance look very similar, especially when the bulb is not visible.
 
-3. How did changing the epochs, batch size, or learning rate affect the training results?
+3.How did changing the epochs, batch size, or learning rate affect the training results?
    
 Answer: Increasing epochs helped improve accuracy at first, but too many caused overfitting. Smaller batch sizes made learning more detailed but slower. A balanced learning rate was important — too high made training unstable, while too low made it very slow.
    
-4. What challenges did you encounter during dataset collection and labeling?
+4.What challenges did you encounter during dataset collection and labeling?
    
 Answer: Some plants like Barley, Sugarbeet, and Cotton were hard to find enough clear images for. Many photos had different angles, lighting, and backgrounds. Labeling was also tricky because some plants looked very similar.
    
-5. If you were to improve your model, what specific changes would you make and why?
+5.If you were to improve your model, what specific changes would you make and why?
    
 Answer: I would collect more images, especially for similar-looking plants. I’d also use data augmentation and try a stronger pre-trained model. These changes would help reduce confusion and improve overall accuracy.
 
