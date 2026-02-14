@@ -9,22 +9,22 @@ Brief description of the project
 The primary function of the image classification model is to serve as a fast, accurate, and automated means of plant species identification.The image classification model can be used to support plant education, agricultural monitoring, biodiversity research, and environmental awareness by making plant identification more accessible and efficient.
 
 B. Plants Species Section
-.[Plants Scpecies:](https://docs.google.com/document/d/1_qACq63tUuY1s-dakO8PCrllrF6mOwEyJumj6oTIrAs/edit?tab=t.0)
+.[Click here:](https://github.com/bratsss/Plant-Species-Image-Classification/tree/9b2a22ef80bd538d85fde3de6542a76302cf170b/Plants%20Species)
 
 C. Model Training Details
-[Heres the link:](https://github.com/bratsss/Plant-Species-Image-Classification/tree/40b0e2c5e18fb19bf38364f1ce0eca76a772eccc/Training%20Settings%20screenshots)
+[Click here:](https://github.com/bratsss/Plant-Species-Image-Classification/tree/40b0e2c5e18fb19bf38364f1ce0eca76a772eccc/Training%20Settings%20screenshots)
 
 D. Model Evaluation
-[Heres the link:](https://github.com/bratsss/Plant-Species-Image-Classification/tree/40b0e2c5e18fb19bf38364f1ce0eca76a772eccc/Under-the-hood%20Evaluation%20screenshots)
+[Click here:](https://github.com/bratsss/Plant-Species-Image-Classification/tree/40b0e2c5e18fb19bf38364f1ce0eca76a772eccc/Under-the-hood%20Evaluation%20screenshots)
 
 E. Model Testing
-[Heres the link:](https://github.com/bratsss/Plant-Species-Image-Classification/tree/40b0e2c5e18fb19bf38364f1ce0eca76a772eccc/Preview%20Testing%20screenshots)
+[Click here:](https://github.com/bratsss/Plant-Species-Image-Classification/tree/40b0e2c5e18fb19bf38364f1ce0eca76a772eccc/Preview%20Testing%20screenshots)
 
 DATASET SCREENSHOT
-[Heres the link:](https://github.com/bratsss/Plant-Species-Image-Classification/tree/40b0e2c5e18fb19bf38364f1ce0eca76a772eccc/Dataset%20Screenshots)
+[Click here:](https://github.com/bratsss/Plant-Species-Image-Classification/tree/40b0e2c5e18fb19bf38364f1ce0eca76a772eccc/Dataset%20Screenshots)
 
 EXPORTED TEACHABLE MACHINE MODEL FILES
-[Heres the link:](https://github.com/bratsss/Plant-Species-Image-Classification/tree/40b0e2c5e18fb19bf38364f1ce0eca76a772eccc/Exported%20Teachable%20Machine)
+[Click here:](https://github.com/bratsss/Plant-Species-Image-Classification/tree/40b0e2c5e18fb19bf38364f1ce0eca76a772eccc/Exported%20Teachable%20Machine)
 
 
 
