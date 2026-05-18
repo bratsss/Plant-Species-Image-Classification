@@ -24,7 +24,7 @@ DATASET SCREENSHOT
 [Click here:](https://github.com/bratsss/Plant-Species-Image-Classification/tree/40b0e2c5e18fb19bf38364f1ce0eca76a772eccc/Dataset%20Screenshots)
 
 EXPORTED MODEL
-[Click here:](https://github.com/bratsss/Plant-Species-Image-Classification/tree/058ad3b37036cb07af29e174d5e83e34b1b9dd22/Exported%20%20Modele)
+[Click here:](https://github.com/bratsss/Plant-Species-Image-Classification/tree/058ad3b37036cb07af29e174d5e83e34b1b9dd22/Exported%20%20Model)
 
 Link on the 20 Plant Species Images 
 [Click here:](https://drive.google.com/drive/folders/1zcZzSBUe1r5Ip_5fsW_mko2TDYARtLhg?usp=drive_link)
