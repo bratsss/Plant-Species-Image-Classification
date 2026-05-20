@@ -47,12 +47,48 @@ D. Model Evaluation
   </tr>
 </table>
 
-
 E. Model Testing
-[Click here:](https://github.com/bratsss/Plant-Species-Image-Classification/tree/40b0e2c5e18fb19bf38364f1ce0eca76a772eccc/Preview%20Testing%20screenshots)
+
+<table>
+  <tr>
+    <td><img src="https://github.com/bratsss/Plant-Species-Image-Classification/blob/40b0e2c5e18fb19bf38364f1ce0eca76a772eccc/Preview%20Testing%20screenshots/Sugar%20Cane%20Testing.jpg" width="220"></td>
+    <td><img src="https://github.com/bratsss/Plant-Species-Image-Classification/blob/40b0e2c5e18fb19bf38364f1ce0eca76a772eccc/Preview%20Testing%20screenshots/Potato%20Testing.jpg" width="220"></td>
+    <td><img src="https://github.com/bratsss/Plant-Species-Image-Classification/blob/40b0e2c5e18fb19bf38364f1ce0eca76a772eccc/Preview%20Testing%20screenshots/Pineapple%20Testing.jpg" width="220"></td>
+    <td><img src="https://github.com/bratsss/Plant-Species-Image-Classification/blob/40b0e2c5e18fb19bf38364f1ce0eca76a772eccc/Preview%20Testing%20screenshots/Onion%20Testing.jpg" width="220"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/bratsss/Plant-Species-Image-Classification/blob/40b0e2c5e18fb19bf38364f1ce0eca76a772eccc/Preview%20Testing%20screenshots/Okra%20Testing.jpg" width="220"></td>
+    <td><img src="https://github.com/bratsss/Plant-Species-Image-Classification/blob/40b0e2c5e18fb19bf38364f1ce0eca76a772eccc/Preview%20Testing%20screenshots/Corn%20Testing.jpg" width="220"></td>
+    <td><img src="https://github.com/bratsss/Plant-Species-Image-Classification/blob/40b0e2c5e18fb19bf38364f1ce0eca76a772eccc/Preview%20Testing%20screenshots/Cocoa%20Testing.jpg" width="220"></td>
+    <td><img src="https://github.com/bratsss/Plant-Species-Image-Classification/blob/40b0e2c5e18fb19bf38364f1ce0eca76a772eccc/Preview%20Testing%20screenshots/Cassava%20Testing.jpg" width="220"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/bratsss/Plant-Species-Image-Classification/blob/40b0e2c5e18fb19bf38364f1ce0eca76a772eccc/Preview%20Testing%20screenshots/Carrot%20Testing.jpg" width="220"></td>
+    <td><img src="https://github.com/bratsss/Plant-Species-Image-Classification/blob/40b0e2c5e18fb19bf38364f1ce0eca76a772eccc/Preview%20Testing%20screenshots/Bitter%20Gourd%20Testing.jpg" width="220"></td>
+    <td><img src="https://github.com/bratsss/Plant-Species-Image-Classification/blob/40b0e2c5e18fb19bf38364f1ce0eca76a772eccc/Preview%20Testing%20screenshots/12th.png" width="220"></td>
+    <td><img src="https://github.com/bratsss/Plant-Species-Image-Classification/blob/40b0e2c5e18fb19bf38364f1ce0eca76a772eccc/Preview%20Testing%20screenshots/10th%20predict.png" width="220"></td>
+  </tr>
+</table>
+
 
 DATASET SCREENSHOT
-[Click here:](https://github.com/bratsss/Plant-Species-Image-Classification/tree/40b0e2c5e18fb19bf38364f1ce0eca76a772eccc/Dataset%20Screenshots)
+
+<table>
+  <tr>
+    <td><img src="https://github.com/bratsss/Plant-Species-Image-Classification/blob/40b0e2c5e18fb19bf38364f1ce0eca76a772eccc/Dataset%20Screenshots/Dataset%20Screenshots%20(1).png" width="450"></td>
+    <td><img src="https://github.com/bratsss/Plant-Species-Image-Classification/blob/40b0e2c5e18fb19bf38364f1ce0eca76a772eccc/Dataset%20Screenshots/Dataset%20Screenshots%20(2).png" width="450"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/bratsss/Plant-Species-Image-Classification/blob/40b0e2c5e18fb19bf38364f1ce0eca76a772eccc/Dataset%20Screenshots/Dataset%20Screenshots%20(3).png" width="450"></td>
+    <td><img src="https://github.com/bratsss/Plant-Species-Image-Classification/blob/40b0e2c5e18fb19bf38364f1ce0eca76a772eccc/Dataset%20Screenshots/Dataset%20Screenshots%20(4).png" width="450"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/bratsss/Plant-Species-Image-Classification/blob/40b0e2c5e18fb19bf38364f1ce0eca76a772eccc/Dataset%20Screenshots/Dataset%20Screenshots%20(5).png" width="450"></td>
+    <td><img src="https://github.com/bratsss/Plant-Species-Image-Classification/blob/40b0e2c5e18fb19bf38364f1ce0eca76a772eccc/Dataset%20Screenshots/Dataset%20Screenshots%20(6).png" width="450"></td>
+  </tr>
+</table>
+
+
 
 EXPORTED MODEL
 [Click here:](https://github.com/bratsss/Plant-Species-Image-Classification/tree/058ad3b37036cb07af29e174d5e83e34b1b9dd22/Exported%20%20Model)
