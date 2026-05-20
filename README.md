@@ -93,7 +93,7 @@ DATASET SCREENSHOT
 EXPORTED MODEL
 [Click here:](https://github.com/bratsss/Plant-Species-Image-Classification/tree/058ad3b37036cb07af29e174d5e83e34b1b9dd22/Exported%20%20Model)
 
-Link on the 20 Plant Species Images 
+LINK ON THE 20 CLASS IMAGES
 [Click here:](https://drive.google.com/drive/folders/1zcZzSBUe1r5Ip_5fsW_mko2TDYARtLhg?usp=drive_link)
 
 
