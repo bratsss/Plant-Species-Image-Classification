@@ -9,7 +9,15 @@ Brief description of the project
 The primary function of the image classification model is to serve as a fast, accurate, and automated means of plant species identification.The image classification model can be used to support plant education, agricultural monitoring, biodiversity research, and environmental awareness by making plant identification more accessible and efficient.
 
 B. Plants Species Section
-.[Click here:](https://github.com/bratsss/Plant-Species-Image-Classification/tree/9b2a22ef80bd538d85fde3de6542a76302cf170b/Plants%20Species)
+
+ ![Model Performance Table](https://github.com/bratsss/Plant-Species-Image-Classification/blob/4bb8ebf8b6a00c92996486df41a1c654795bbf93/Plants%20Species/PLANTS%20SPECIES(1).png)
+
+![Model Performance Table](https://github.com/bratsss/Plant-Species-Image-Classification/blob/4bb8ebf8b6a00c92996486df41a1c654795bbf93/Plants%20Species/PLANTS%20SPECIES(2).png)
+
+![Model Performance Table](https://github.com/bratsss/Plant-Species-Image-Classification/blob/4bb8ebf8b6a00c92996486df41a1c654795bbf93/Plants%20Species/PLANTS%20SPECIES(3).png)
+
+![Model Performance Table](https://github.com/bratsss/Plant-Species-Image-Classification/blob/4bb8ebf8b6a00c92996486df41a1c654795bbf93/Plants%20Species/PLANTS%20SPECIES(4).png)
+
 
 C. Model Training Details
 [Click here:](https://github.com/bratsss/Plant-Species-Image-Classification/tree/40b0e2c5e18fb19bf38364f1ce0eca76a772eccc/Training%20Settings%20screenshots)
