@@ -32,13 +32,16 @@ B. Plants Species Section
 
 
 C. Model Training Details
-![Model Performance Table](https://github.com/bratsss/Plant-Species-ImageClassification/blob/4bb8ebf8b6a00c92996486df41a1c654795bbf93/Training%20Settings%20screenshots/Training%20settings.png)
+![Training Setting](https://github.com/bratsss/Plant-Species-Image-Classification/blob/4bb8ebf8b6a00c92996486df41a1c654795bbf93/Training%20Settings%20screenshots/Training%20settings.png)
 
 D. Model Evaluation
-[Click here:](https://github.com/bratsss/Plant-Species-Image-Classification/tree/40b0e2c5e18fb19bf38364f1ce0eca76a772eccc/Under-the-hood%20Evaluation%20screenshots)
+![Under the Hood](https://github.com/bratsss/Plant-Species-Image-Classification/blob/4bb8ebf8b6a00c92996486df41a1c654795bbf93/Under-the-hood%20Evaluation%20screenshots/under.png)
+
+![Under the Hood](https://github.com/bratsss/Plant-Species-Image-Classification/blob/4bb8ebf8b6a00c92996486df41a1c654795bbf93/Under-the-hood%20Evaluation%20screenshots/Under%20h%20hood.png)
 
 E. Model Testing
 [Click here:](https://github.com/bratsss/Plant-Species-Image-Classification/tree/40b0e2c5e18fb19bf38364f1ce0eca76a772eccc/Preview%20Testing%20screenshots)
+
 
 DATASET SCREENSHOT
 [Click here:](https://github.com/bratsss/Plant-Species-Image-Classification/tree/40b0e2c5e18fb19bf38364f1ce0eca76a772eccc/Dataset%20Screenshots)
