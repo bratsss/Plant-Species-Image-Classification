@@ -10,13 +10,25 @@ The primary function of the image classification model is to serve as a fast, ac
 
 B. Plants Species Section
 
- ![Model Performance Table](https://github.com/bratsss/Plant-Species-Image-Classification/blob/4bb8ebf8b6a00c92996486df41a1c654795bbf93/Plants%20Species/PLANTS%20SPECIES(1).png)
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/bratsss/Plant-Species-Image-Classification/blob/4bb8ebf8b6a00c92996486df41a1c654795bbf93/Plants%20Species/PLANTS%20SPECIES(1).png" width="400"/>
+    </td>
+    <td>
+      <img src="https://github.com/bratsss/Plant-Species-Image-Classification/blob/4bb8ebf8b6a00c92996486df41a1c654795bbf93/Plants%20Species/PLANTS%20SPECIES(2).png" width="400"/>
+    </td>
+  </tr>
 
-![Model Performance Table](https://github.com/bratsss/Plant-Species-Image-Classification/blob/4bb8ebf8b6a00c92996486df41a1c654795bbf93/Plants%20Species/PLANTS%20SPECIES(2).png)
-
-![Model Performance Table](https://github.com/bratsss/Plant-Species-Image-Classification/blob/4bb8ebf8b6a00c92996486df41a1c654795bbf93/Plants%20Species/PLANTS%20SPECIES(3).png)
-
-![Model Performance Table](https://github.com/bratsss/Plant-Species-Image-Classification/blob/4bb8ebf8b6a00c92996486df41a1c654795bbf93/Plants%20Species/PLANTS%20SPECIES(4).png)
+  <tr>
+    <td>
+      <img src="https://github.com/bratsss/Plant-Species-Image-Classification/blob/4bb8ebf8b6a00c92996486df41a1c654795bbf93/Plants%20Species/PLANTS%20SPECIES(3).png" width="400"/>
+    </td>
+    <td>
+      <img src="https://github.com/bratsss/Plant-Species-Image-Classification/blob/4bb8ebf8b6a00c92996486df41a1c654795bbf93/Plants%20Species/PLANTS%20SPECIES(4).png" width="400"/>
+    </td>
+  </tr>
+</table>
 
 
 C. Model Training Details
